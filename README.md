@@ -106,11 +106,12 @@ Testing the C Program for the desired output.
 
 
 
-
-
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/62c8100a-2ce1-4469-b42f-63783ca0868d)
+![image](https://github.com/user-attachments/assets/9419b6a1-1f99-47c2-9127-3ad22a29b3b5)
+
+
+
 
 
 
